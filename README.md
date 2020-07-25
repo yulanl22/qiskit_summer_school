@@ -1,16 +1,30 @@
 # IBM QISKIT GLOBAL SUMMER SCHOOL
 
+Youtube link to lectures - <a href="https://www.youtube.com/playlist?list=PLOFEBzvs-VvqPzAH4jwcHbV_rJz2_l9B6">QGSS_2020</a>
+
 ## Week 1
 
 ### Day 1: QUBITS & QUANTUM STATES, CIRCUITS, MEASUREMENTS
 
+
+
 ### Day 2: WRITING & RUNNING QUANTUM
+
+
 
 ### Day 3: SHOR’S ALGORITHM I
 
+
+
 ### Day 4: SHOR’S ALGORITHM II
 
+
+
+
 ### Day 5: QUANTUM ERROR CORRECTION
+
+
+
 
 ## Week 2
 
