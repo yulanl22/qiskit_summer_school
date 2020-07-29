@@ -41,9 +41,9 @@ Introduced the topic of Quantum Computing (QC) and highlighted the fundamental d
 
 ### Day 5: CAREER PANEL 
 
-# Final Project:
+## Final Project:
 
-** Deadline: ** Aug 7th, 2020 (10:00am EDT)
+**Deadline:** Aug 7th, 2020 (10:00am EDT)
 
 In the Final Project we will design, implement, and simulate a VQE algorithm for calculating the ground state energy of the LiH molecule. We will explore different choices of designing VQE algorithms and compare their performance under specified assumptions to each other and to the classically computed exact solution. In addition, we will look at how realistic device specific noises could impact the performance of VQE algorithms. 
 
